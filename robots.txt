@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-q2rpa1.saturadar88.online/sitemap.xml
